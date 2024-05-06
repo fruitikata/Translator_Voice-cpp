@@ -1,0 +1,3 @@
+C:\Users\Yel\source\repos\textToSpeech\textToSpeech\x64\Debug\textToSpeech.vcxproj.AssemblyReference.cache
+C:\Users\Yel\source\repos\textToSpeech\textToSpeech\x64\Debug\textToSpeech.TTS.resources
+C:\Users\Yel\source\repos\textToSpeech\textToSpeech\x64\Debug\textToSpeech.vcxproj.GenerateResource.cache
