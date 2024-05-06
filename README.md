@@ -1,5 +1,5 @@
-﻿# Translator w/ Voice
- CPP System School Project
+﻿# Translator with Voice
+CPP System School Project
 ### Software Development Environment used: VisualStudio
 Used a C++ extension ----- C++/CLI(C++/Common Language Infrastructure)
 
